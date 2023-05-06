@@ -1,0 +1,45 @@
+/* color de dias y horarios*/
+td{
+    color:red;
+}
+/*tamaño y color header*/
+header{
+    background-color: aqua;
+}
+header{
+    height: 175px;
+}
+header{
+    max-width: max-content; 
+}
+/*tamaño y color footer*/
+footer{
+    background-color: darkgray;
+}
+footer{
+    height: 30px;
+}
+footer{
+    width: max-content; 
+}
+form{
+    border-left-width: 50px;
+}
+form{
+    border-top-width: 50px;
+}
+form{
+    border-color: darkred;
+}
+form{
+    background-color: aqua;
+}
+tr{
+    list-style: none;
+}
+li{
+    display : Flex;
+}
+ul{
+    display : Flex;
+}
